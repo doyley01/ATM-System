@@ -1,0 +1,48 @@
+C:\Users\joshd\source\repos\AAS-System\AAS-System\bin\Debug\AAS-System.exe.config
+C:\Users\joshd\source\repos\AAS-System\AAS-System\bin\Debug\AAS-System.exe
+C:\Users\joshd\source\repos\AAS-System\AAS-System\bin\Debug\AAS-System.pdb
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.AssemblyReference.cache
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS_System.AASLogin.resources
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS_System.Properties.Resources.resources
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.GenerateResource.cache
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.CoreCompileInputs.cache
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS-System.exe
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS-System.pdb
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS_System.AASMain.resources
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS_System.AddCustomer.resources
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS_System.ViewCustomer.resources
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS_System.Transactions.resources
+C:\Users\joshd\source\repos\AAS-System\AAS-System\obj\Debug\AAS_System.Message.resources
+D:\AAS-System\AAS-System\bin\Debug\AAS-System.exe.config
+D:\AAS-System\AAS-System\bin\Debug\AAS-System.exe
+D:\AAS-System\AAS-System\bin\Debug\AAS-System.pdb
+D:\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.AssemblyReference.cache
+D:\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.SuggestedBindingRedirects.cache
+D:\AAS-System\AAS-System\obj\Debug\AAS_System.AASMain.resources
+D:\AAS-System\AAS-System\obj\Debug\AAS_System.AddCustomer.resources
+D:\AAS-System\AAS-System\obj\Debug\AAS_System.AASLogin.resources
+D:\AAS-System\AAS-System\obj\Debug\AAS_System.Message.resources
+D:\AAS-System\AAS-System\obj\Debug\AAS_System.Properties.Resources.resources
+D:\AAS-System\AAS-System\obj\Debug\AAS_System.Transactions.resources
+D:\AAS-System\AAS-System\obj\Debug\AAS_System.ViewCustomer.resources
+D:\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.GenerateResource.cache
+D:\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.CoreCompileInputs.cache
+D:\AAS-System\AAS-System\obj\Debug\AAS-System.exe
+D:\AAS-System\AAS-System\obj\Debug\AAS-System.pdb
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\bin\Debug\AAS-System.exe.config
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\bin\Debug\AAS-System.exe
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\bin\Debug\AAS-System.pdb
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.AssemblyReference.cache
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS_System.AASMain.resources
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS_System.AddCustomer.resources
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS_System.AASLogin.resources
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS_System.Message.resources
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS_System.Properties.Resources.resources
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS_System.Transactions.resources
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS_System.ViewCustomer.resources
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.GenerateResource.cache
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS-System.csproj.CoreCompileInputs.cache
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS-System.exe
+G:\My Drive\Year2\ISE\Assessment\AAS-System\AAS-System\obj\Debug\AAS-System.pdb
